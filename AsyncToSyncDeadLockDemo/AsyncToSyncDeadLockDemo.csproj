@@ -200,6 +200,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\AsyncPage.cshtml" />
     <Content Include="Views\Home\SyncPage.cshtml" />
+    <Content Include="Views\Home\QBWIPage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
